@@ -1,0 +1,26 @@
+type = user
+count = 10
+speed = 1.0
+start data >>
+LaunchActivity(com.gn100.unlock,com.gn100.unlock.MainActivity)
+UserWait(1000)
+DispatchPointer(0,0,0,950,255,0,0,0,0,0,0,0)
+UserWait(500)
+DispatchPointer(0,0,2,950,610,0,0,0,0,0,0,0)
+UserWait(500)
+DispatchPointer(0,0,2,169,255,0,0,0,0,0,0,0)
+UserWait(500)
+DispatchPointer(0,0,2,169,610,0,0,0,0,0,0,0)
+UserWait(500)
+DispatchPointer(0,0,2,950,970,0,0,0,0,0,0,0)
+UserWait(500)
+DispatchPointer(0,0,2,551,255,0,0,0,0,0,0,0)
+UserWait(500)
+DispatchPointer(0,0,2,551,610,0,0,0,0,0,0,0)
+UserWait(500)
+DispatchPointer(0,0,2,169,970,0,0,0,0,0,0,0)
+UserWait(500)
+DispatchPointer(0,0,2,551,970,0,0,0,0,0,0,0)
+UserWait(500)
+DispatchPointer(0,0,1,551,970,0,0,0,0,0,0,0)
+UserWait(500)
